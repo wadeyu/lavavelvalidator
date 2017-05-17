@@ -1,0 +1,21 @@
+{
+	"name":"wadeyu/laravelvalidator",
+	"type": "library",
+	"keywords": ["laravel validator"],
+	"homepage": "https://github.com/wadeyu/lavavelvalidator",
+	"description":"a simple laravel validator extends",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "WadeYu",
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WadeYu\\LaravelValidator\\": "src"
+        }
+    }
+}
